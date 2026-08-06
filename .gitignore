@@ -1,0 +1,9 @@
+# Reasoning ledgers — local run artifacts
+.tangent/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

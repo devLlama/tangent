@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tangent",
+  "owner": {
+    "name": "Shoaib Bharmal"
+  },
+  "plugins": [
+    {
+      "name": "tangent",
+      "source": "./",
+      "description": "Sequential disposable reasoning. Plan into steps, think each one through in a throwaway context, carry only findings forward.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Shoaib Bharmal"
+      }
+    }
+  ]
+}
