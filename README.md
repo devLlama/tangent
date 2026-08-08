@@ -72,14 +72,14 @@ hard and then spend the savings writing the hard part out in full.
 ## Install
 
 ```bash
-/plugin marketplace add chrismichaelraj-bharmalcpas/tangent
+/plugin marketplace add devLlama/tangent
 /plugin install tangent
 ```
 
 Or clone into a project:
 
 ```bash
-git clone https://github.com/chrismichaelraj-bharmalcpas/tangent .claude/plugins/tangent
+git clone https://github.com/devLlama/tangent .claude/plugins/tangent
 ```
 
 ## Use
