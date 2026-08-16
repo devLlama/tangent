@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "tangent",
   "owner": {
-    "name": "Shoaib Bharmal"
+    "name": "Chris Michael Raj"
   },
   "plugins": [
     {
@@ -11,7 +11,7 @@
       "description": "Sequential disposable reasoning. Plan into steps, think each one through in a throwaway context, carry only findings forward.",
       "version": "0.1.0",
       "author": {
-        "name": "Shoaib Bharmal"
+        "name": "Chris Michael Raj"
       }
     }
   ]
