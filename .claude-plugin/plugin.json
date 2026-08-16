@@ -3,9 +3,9 @@
   "description": "Sequential disposable reasoning. Claude plans a problem into steps, then thinks each step through in a throwaway context window using compressed notation, carrying only findings forward. Deep reasoning without polluting the main context.",
   "version": "0.1.0",
   "author": {
-    "name": "Shoaib Bharmal"
+    "name": "Chris Michael Raj"
   },
-  "homepage": "https://github.com/chrismichaelraj-bharmalcpas/tangent",
-  "repository": "https://github.com/chrismichaelraj-bharmalcpas/tangent",
+  "homepage": "https://github.com/devLlama/tangent",
+  "repository": "https://github.com/devLlama/tangent",
   "license": "MIT"
 }
